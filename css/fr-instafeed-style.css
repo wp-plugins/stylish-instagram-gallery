@@ -1,0 +1,82 @@
+#instafeed  a {
+	background: none repeat scroll 0 0 #fff;
+	box-sizing: border-box;
+	float: left;
+	margin:5px 0 25px 3%;
+	width: 16%;
+}
+#instafeed{
+	overflow:hidden
+}
+/*==================== Default=====================*/
+#instafeed.default  a {
+	background: none repeat scroll 0 0 #fff;
+	box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2);
+	box-sizing: border-box;
+	float: left;
+	padding: 10px 10px 32px;
+}
+/*==================== Normal=====================*/
+#instafeed.normal  a {
+	background: none repeat scroll 0 0 #fff;
+}
+/*==================== Box=====================*/
+#instafeed.box  a {
+	padding: 5px 5px 0;
+	box-shadow:0 0 5px -1px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow:0 0 5px -1px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow:0 0 5px -1px rgba(0, 0, 0, 0.3);
+}
+/*==================== Circle=====================*/
+#instafeed.circle  a {
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	padding: 5px 5px 0;
+	box-shadow:0 0 5px -1px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow:0 0 5px -1px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow:0 0 5px -1px rgba(0, 0, 0, 0.3);
+}
+#instafeed.circle  a img{
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+}
+
+#instafeed.default  a:nth-child(3n+1) {
+	-webkit-transform:rotate(1.5deg);
+    -moz-transform:rotate(1.5deg);
+    -ms-transform:rotate(1.5deg);
+     -o-transform:rotate(1.5deg);
+        transform:rotate(1.5deg);
+}
+#instafeed.default  a:nth-child(3n+2) {
+	-webkit-transform:rotate(-1deg);
+    -moz-transform:rotate(-1deg);
+    -ms-transform:rotate(-1deg);
+     -o-transform:rotate(-1deg);
+        transform:rotate(-1deg);
+}
+#instafeed.default  a:nth-child(3n+3) {
+	-webkit-transform:rotate(0.5deg);
+    -moz-transform:rotate(0.5deg);
+    -ms-transform:rotate(0.5deg);
+     -o-transform:rotate(0.5deg);
+        transform:rotate(0.5deg);
+}
+#instafeed.default  a:nth-child(6n+6) {
+	margin-right: 0;
+}
+#instafeed a img {
+	-webkit-transition:all 0.2s ease-out 0s;
+    -moz-transition:all 0.2s ease-out 0s;
+     -o-transition:all 0.2s ease-out 0s;
+	transition:all 0.2s ease-out 0;
+	width: 100%;
+	height: 100%;
+	border-radius:0px;
+	-webkit-border-radius:0px;
+	-moz-border-radius:0px;
+}

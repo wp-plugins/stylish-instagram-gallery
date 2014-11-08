@@ -10,21 +10,21 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Description ==
 
-This plugin is used for adding instagram image gallery into your wordpress site.It's easy to use,user friendly,completely responsive and have 4 styles.
+This plugin is used for adding instagram image gallery into your wordpress site.It's easy to use,user friendly,completely responsive and have 4 different styles.
 
 ShortCodes:
 
 1.Default style 
-<pre> [fr-instagram-gallery]</pre>
+[fr-instagram-gallery]
 
 2.Normal style 
-<pre> [fr-instagram-gallery style=normal]</pre>
+[fr-instagram-gallery style=normal]
 
 3.Box style
-<pre>[fr-instagram-gallery style=box]</pre>
+[fr-instagram-gallery style=box]
 
 4.Circle style
-<pre>[fr-instagram-gallery style=circle]</pre>
+[fr-instagram-gallery style=circle]
 
 
 

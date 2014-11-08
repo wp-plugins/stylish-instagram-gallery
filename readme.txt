@@ -11,7 +11,7 @@ Here is a short description of the plugin.  This should be no more than 150 char
 == Description ==
 
 This plugin is used for adding instagram image gallery into your wordpress site.It's easy to use,user friendly,completely responsive and have 4 different styles.
-
+Live preview  http://plugin.freelancezonebd.com/instagram-gallery/
 
 
 == Installation ==

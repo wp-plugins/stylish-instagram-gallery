@@ -32,7 +32,7 @@ e.g.
 
 
 
-ShortCodes:
+<b>ShortCodes:</b>
 
 1.Default style 
 <pre> [fr-instagram-gallery]</pre>

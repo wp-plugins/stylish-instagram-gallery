@@ -66,9 +66,13 @@ e.g.
 
 == Screenshots ==
  Instagram Settings page
+
  Default Style view
+
  Normal Style view
+
  Box Style view
+
  Circle Style view
 
 == Changelog ==

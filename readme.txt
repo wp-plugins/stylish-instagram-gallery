@@ -65,15 +65,15 @@ e.g.
 
 
 == Screenshots ==
- Instagram Settings page
+1. Instagram Settings page
 
- Default Style view
+2. Default Style view
 
- Normal Style view
+3. Normal Style view
 
- Box Style view
+4. Box Style view
 
- Circle Style view
+5. Circle Style view
 
 == Changelog ==
 

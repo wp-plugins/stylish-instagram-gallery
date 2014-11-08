@@ -1,5 +1,5 @@
 === Stylish Instagram Gallery  ===
-Tags: Instagram Gallery, Instagram gallery wordpress,Instagram image gallery  wordpress,Instagram feed wordpress,better Instagram gallery.
+Tags: Instagram Gallery,Better Instagram Gallery wordpress,Instagram image gallery ,Instagram gallery wordpress,Instagram image gallery  wordpress,Instagram feed wordpress,better Instagram gallery.
 Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 1.0

@@ -12,20 +12,6 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 This plugin is used for adding instagram image gallery into your wordpress site.It's easy to use,user friendly,completely responsive and have 4 different styles.
 
-ShortCodes:
-
-1.Default style 
-[fr-instagram-gallery]
-
-2.Normal style 
-[fr-instagram-gallery style=normal]
-
-3.Box style
-[fr-instagram-gallery style=box]
-
-4.Circle style
-[fr-instagram-gallery style=circle]
-
 
 
 == Installation ==
@@ -40,9 +26,25 @@ e.g.
 
 3. Got to settings page from settings->stylish instagram gallery and set your instagram information.
 
-3. Use shortcode in page,post or in widgets.
+4. Use shortcode in page,post or in widgets.
 
-4. If you want to use this in your theme php,Place `<?php do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
+5. If you want to use this in your theme php,Place `<?php do_shortcode('YOUR_SHORTCODE'); ?>` in your templates
+
+
+
+ShortCodes:
+
+1.Default style 
+<pre> [fr-instagram-gallery]</pre>
+
+2.Normal style 
+<pre> [fr-instagram-gallery style=normal]</pre>
+
+3.Box style
+<pre>[fr-instagram-gallery style=box]</pre>
+
+4.Circle style
+<pre>[fr-instagram-gallery style=circle]</pre>
 
 
 == Shortcodes ==
